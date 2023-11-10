@@ -2,12 +2,12 @@
 
 title: algotyrnt
 description: I’m Punjitha aka algotyrnt.
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: personal website and blog for tyrnt
+tagshort: tyrnt's website
 url: https://algotyrnt.github.io/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/algotyrnt/algotyrnt.github.io
 
 # author settings
 
