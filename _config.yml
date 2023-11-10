@@ -12,19 +12,19 @@ repo: https://github.com/username/username.github.io
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Punjitha Bandara
+  email: punjitha@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
+  facebook: algotyrnt
+  github: algotyrnt
+  instagram: algotyrnt
+  linkedin: punjitha
   stackoverflow: 0000000/username
-  twitter: username
+  twitter: algotyrnt
 
 # build settings
 
