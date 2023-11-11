@@ -11,7 +11,7 @@ title: CV
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-* Ut enim ad minim veniam
+* Ut enim ad minim venia
 * Quis nostrud exercitation
 * Ullamco laboris nisi
 * Ut aliquip ex ea commodo consequat
